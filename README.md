@@ -1,2 +1,2 @@
 # simple_Restaurant page 
-Visit:- https://kingsaurav.github.io/simple_Restaurant/
+Visit via clicking :point_right https://kingsaurav.github.io/simple_Restaurant/
